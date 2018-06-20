@@ -4,4 +4,4 @@ The problems that are solved are exercises 6.12(ChooseAndSplit), 6.15(RemoveLast
 
 An Introduction to Bioinformatics Algorithms: Pavel A. Pevzner, Neil C. Jones
 
-The data are parsed from our **.fasta** files and they were taken from: https://www.ncbi.nlm.nih.gov/ .
+The data used in our programs are parsed from our **.fasta** files which were taken from [here](https://www.ncbi.nlm.nih.gov/) .
